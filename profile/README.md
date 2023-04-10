@@ -4,24 +4,17 @@ Pinkie is a web and app builder developed by brazillian students. Share your wor
 
 ## Visit the Pinkie website and download the app!
 
-- ### [Pinkie website](https://pinkie.app/)
-- ### [Pinkie on iOS](https://apps.apple.com/us/app/pinkie-app/id1613210612)
-- ### [Pinkie on Android](https://play.google.com/store/apps/details?id=app.pinkie)
+- ### ***[Pinkie website](https://pinkie.app/)***
+- ### ***[Pinkie on iOS](https://apps.apple.com/us/app/pinkie-app/id1613210612)***
+- ### ***[Pinkie on Android](https://play.google.com/store/apps/details?id=app.pinkie)***
 
 <a href="https://pinkie.app" target="_blank"><img src="https://pinkie.app/images/website-preview-en.jpg" target="_blank"></a>
 
 ---
 
-## Get involved!
+## If you like our work, you can donate to us:
+### Bitcoin Wallet:
+`bc1qtaht59luh7lcxzshcgxelhm4520vgzvn27wfa7`
 
-Follow us on our social media:
-- [Pinkie](https://pinkie.app/pinkie)
-- [Forus](https://forus.app/pinkie)
-- [Instagram](http://instagram.com/pinkie.app)
-- [LinkedIn](https://www.linkedin.com/company/pinkieapp/)
-- [TikTok](http://tiktok.com/@pinkie.app)
-- [YouTube](http://youtube.com/@pinkieapp)
-
-If you like our work, you can donate to us:
-- Bitcoin Wallet - bc1qgzluzlz0l3t8slqwnl2557tvekh4qkcerkgrhu
-- Ethereum / Polygon Wallet - 0x36ae07dfB1A61C558bB3de508214A0020FB263de
+### Ethereum / Polygon Wallet:
+`0x790dfDA9a22B14f566355dBdC19e70dA876F9A83`
