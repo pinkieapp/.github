@@ -1,6 +1,6 @@
 # Welcome to Pinkie App 👋
 
-Pinkie is a web and app builder developed by brazillian students. Share your world.
+Pinkie is an AI app builder by text developed by brazillian students.
 
 ## Visit the Pinkie website and download the app!
 
